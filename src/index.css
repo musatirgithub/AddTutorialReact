@@ -1,0 +1,11 @@
+.edit{
+    margin: 0.2rem;
+}
+
+.edit:hover{
+    cursor: pointer;
+}
+
+.customBtn:hover{
+    cursor: pointer;
+}
